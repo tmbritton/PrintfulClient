@@ -1,0 +1,14 @@
+{
+    "name": "tmbritton/printful_client",
+    "description": "API client library for theprintful",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "Tom Britton",
+            "email": "britton.tm@gmail.com"
+        }
+    ]
+}
