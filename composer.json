@@ -10,5 +10,10 @@
             "name": "Tom Britton",
             "email": "britton.tm@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tmbritton\\": "src/"
+        }
+    },
 }
