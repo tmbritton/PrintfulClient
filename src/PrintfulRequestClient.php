@@ -9,7 +9,7 @@
  * @copyright 2014 Idea Bits LLC
  */
 
-namespace tmbritton\PrintfulClient;
+namespace Tmbritton\PrintfulClient;
 use Exception;
 
 class PrintfulRequestClient {
